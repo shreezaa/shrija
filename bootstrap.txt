@@ -1,0 +1,17 @@
+.container
+max-width=1170px
+.container-fliud
+max-width:100% -30px
+.row
+
+
+breaking point(column)
+min width       max width
+.col-lg(laptop/desktop)
+1200px   >=
+.col-md(laptop/desktop)
+992px      to    1199px
+.col-sm(table)
+99768px   to     991px
+.col-xs(mobile)
+360px  to        767px
